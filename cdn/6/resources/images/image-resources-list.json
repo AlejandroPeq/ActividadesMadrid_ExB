@@ -1,0 +1,30 @@
+{
+  "1712764099274": {
+    "originalName": "Experto_Banner.png",
+    "fileName": "1712764099274.png",
+    "size": 1750965,
+    "url": "${appResourceUrl}/images/widget_3/1712764099274.png",
+    "created": 1712764099274,
+    "resourcesPrefix": "images/widget_3",
+    "referedIds": [],
+    "originId": "1712764099274",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 2023,
+    "originalHeight": 1137
+  },
+  "1712764877447": {
+    "originalName": "exb_logo.png",
+    "fileName": "1712764877447.png",
+    "size": 15681,
+    "url": "${appResourceUrl}/images/widget_8/1712764877447.png",
+    "created": 1712764877447,
+    "resourcesPrefix": "images/widget_8",
+    "referedIds": [],
+    "originId": "1712764877447",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 220,
+    "originalHeight": 220
+  }
+}
